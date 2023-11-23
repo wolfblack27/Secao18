@@ -1,5 +1,5 @@
 package aplication;
-
+/*
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeFormatterBuilder;
@@ -12,7 +12,11 @@ import model.entities.Vehicle;
 import model.services.BrazilTaxService;
 import model.services.RentalService;
 
-public class Program {
+
+//Implementação da camada Servios, com o uso de uma classe para associar duas outras classe - Interfaces 
+
+
+public class Program1 {
 
 	public static void main(String[] args) {
 		Scanner sc  = new Scanner(System.in);
@@ -48,3 +52,4 @@ public class Program {
 	}
 
 }
+*/
